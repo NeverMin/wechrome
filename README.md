@@ -27,3 +27,5 @@ czdBYqkPztckLXT9LjbBVdfk8xYHhFVpsNO7KvcGIbnaxEIAiB1EvnFWv5ouLvRi
 ewIDAQAB
 ```
 - 产品 ID: 6df54176-841f-45f0-8462-87c5506d659b
+
+ref: https://learn.microsoft.com/zh-cn/microsoft-edge/extensions-chromium/publish/publish-extension
